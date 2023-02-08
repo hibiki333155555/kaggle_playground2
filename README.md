@@ -1,1 +1,11 @@
-# kaggle_playground1
+# kaggle_playground1  
+| Attrivute     | Description |
+| ------------- | ---------------------------------------------------------|
+| HouseAge      | ブロック内の住宅の築年数。数値が低いほど新しい建物である。|
+| AveRooms      | 一区画内の平均部屋数。|
+| AveBedrms     | 一区画内の平均寝室数。|
+| Population    | その街区に住む人の総数。|
+| AveOccup      | 平均的な世帯員数。|
+| Longitude     | 家が西にどれだけ離れているかを示す指標で、マイナスの値ほど西にある。|
+| Latitude      | 家がどれくらい北にあるかを示す指標で、値が高いほど北にある。|
+| MedHouseValue | ブロック内の世帯の住宅価格の中央値。|
